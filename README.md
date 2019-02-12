@@ -115,14 +115,6 @@ class Hello extends Component {
 
 ## 2. 왜 React인가?
 <br />
-<p align="center">
-<img src="https://rhostem.github.io/static/6-react-rising-ccef8a80b6799036efdacba0ea3b3dba-9056e.png" width="600" height="350" />
-</p>
-
-
->2017 javascript 라이브러리와 프레임워크 관련 채용정보 통계(출처: [indeed.com](https://kr.indeed.com/?r=us))
-
-<br />
 
 `'Programming JavaScript Applications'`의 저자  Eric Elliott은 왜 이렇게 React가 관심을 받고있는가에 대해 [다음](https://medium.com/javascript-scene/top-javascript-libraries-tech-to-learn-in-2018-c38028e028e6)과 같이 얘기하고 있다.
 
